@@ -374,7 +374,7 @@ def make_engine_move(root):
 def main():
     global board, canvas
     root = tk.Tk()
-    root.title("CheckMateX")
+    root.title("Frost Web")
 
     board_size = 8
     square_size = 80  

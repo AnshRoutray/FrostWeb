@@ -13,7 +13,7 @@
 #define EVALUATE_HPP
 
 #include <vector>
-#include <cmath>
+#include <cstdlib>
 
 using namespace std;
 

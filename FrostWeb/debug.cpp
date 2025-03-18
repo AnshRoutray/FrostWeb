@@ -37,5 +37,7 @@ int main(){
      {rook, knight, bishop, space, rook, space, space, rook},
      {longCastlingDisabled, bothCastlingEnabled, blackPlayer, 5, 5, 0}};
 
+    printBoard(debugboard);
+
     return 0;
 }

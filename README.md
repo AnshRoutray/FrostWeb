@@ -16,7 +16,8 @@
 
  -  Adding SIMD (Single Instruction, Multiple Data) to move generation to ensure move generation is even faster (**Status:** To Be Done)
 
- -  Adding OpenMP cpu parellization to recursive search of the game tree evaluatinf multiple nodes at once. (**Status:** To Be Done)
+ -  Adding OpenMP cpu parellization to recursive search of the game tree evaluating multiple nodes at once. (**Status:** To Be Done)
 
 **Description**: FrostWeb is an open source chess engine that plays at an intermediate level. Can beat bots rated around 1000-1200 on chess.com
+
 

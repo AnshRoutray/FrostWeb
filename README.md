@@ -1,6 +1,8 @@
 ﻿**FrostWeb**
 
  **Changing Engine Design:** 
+
+ (SideNote: New Move Generation technique improved time taken to generate legal moves from starting position from 252006ns to 3083 ns, that is a 98.8% speed improvement!!)
  
  - Redesigning the move generation by using bitboards instead of 2D vectors reducing dynamic memory allocation and making move generation more cache friendly. (**Status:** Completed)
    
@@ -19,6 +21,7 @@
  -  Adding OpenMP cpu parellization to recursive search of the game tree evaluating multiple nodes at once. (**Status:** To Be Done)
 
 **Description**: FrostWeb is an open source chess engine that plays at an intermediate level. Can beat bots rated around 1000-1200 on chess.com
+
 
 
 

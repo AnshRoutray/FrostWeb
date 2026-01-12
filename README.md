@@ -1,4 +1,4 @@
-﻿**FrostWeb**
+﻿**ChessEngine**
 
  **Changing Engine Design:** 
 
@@ -21,6 +21,7 @@
  -  Adding OpenMP cpu parellization to recursive search of the game tree evaluating multiple nodes at once. (**Status:** To Be Done)
 
 **Description**: FrostWeb is an open source chess engine that plays at an intermediate level. Can beat bots rated around 1000-1200 on chess.com
+
 
 
 
